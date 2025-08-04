@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
-<img src=""C:\Users\shrey\OneDrive\Pictures\Screenshots\Screenshot 2025-07-21 131906.png"" alt="My image" />
-=======
 <img src="C:\Users\shrey\OneDrive\Pictures\Screenshots\Screenshot 2025-07-21 131906.png" alt="SDLC certificate" />
->>>>>>> Stashed changes
+
